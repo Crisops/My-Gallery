@@ -200,6 +200,9 @@ footer p span:hover a{
 }
 
 @media (max-width: 1000px){
+  section:nth-child(1){
+    padding: 50px 1% 60px;
+  }
   section:nth-child(2){
     padding: 50px 10% 60px;
   }
